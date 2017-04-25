@@ -1,6 +1,6 @@
 # npmdoc-telegram-node-bot
 
-#### api documentation for  [telegram-node-bot (v4.0.5)](https://github.com/Naltox/telegram-node-bot)  [![npm package](https://img.shields.io/npm/v/npmdoc-telegram-node-bot.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-telegram-node-bot) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-telegram-node-bot.svg)](https://travis-ci.org/npmdoc/node-npmdoc-telegram-node-bot)
+#### basic api documentation for  [telegram-node-bot (v4.0.5)](https://github.com/Naltox/telegram-node-bot)  [![npm package](https://img.shields.io/npm/v/npmdoc-telegram-node-bot.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-telegram-node-bot) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-telegram-node-bot.svg)](https://travis-ci.org/npmdoc/node-npmdoc-telegram-node-bot)
 
 #### Module for creating Telegram bots.
 
@@ -68,7 +68,8 @@
         "prepublish": "node api-scheme/GenerateTGModels.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "4.0.5"
+    "version": "4.0.5",
+    "bin": {}
 }
 ```
 
